@@ -1,1 +1,3 @@
-# S-Lindahl's GitHub Website
+# S.Lindahl's Project Website - BDA594
+## San Francisco Open Data
+### I chose a dataset from San Francisco's Open Data Portal. I navigated to the public safety section and selected [Police incidents from 2018 to present](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783). This dataset is comprised of all calls for service over the past 5 years. It includes information like location, police codes for call type, date, time. This data can be used to create visualizations that show crime hotspots by year to show trends over time. Perhaps you could look at what times of day or year are prone to more violent crime and predict when more officers may need to be in a particular area of the city. These types of visualizations can help city officials and police departments create plans to tackle areas with high rates of crime.
